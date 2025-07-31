@@ -1,0 +1,2 @@
+echo "Привет"
+read pwd
