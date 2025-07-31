@@ -1,2 +1,3 @@
 echo "Привет"
-read $hello
+read hello
+echo "Вы ввели: $hello"
