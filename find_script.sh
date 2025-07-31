@@ -1,2 +1,2 @@
 echo "Привет"
-read $Hello
+read $hello
